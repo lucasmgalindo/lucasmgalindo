@@ -16,7 +16,7 @@
 
 I'm a technology enthusiast passionate about understanding how modern systems are built, secured, and scaled from end to end. Currently exploring and building projects across core IT domains:
 
-## Areas of Interest 🚀
+## Areas of Interest 
 - 💻 **Software Development:** Building web applications, APIs, and clean code solutions.
 - 📊 **Data & Artificial Intelligence:** Data analysis, machine learning, and intelligent automation.
 - 🔐 **Information Security:** Cybersecurity fundamentals, system hardening, and secure practices.
@@ -58,7 +58,7 @@ I'm a technology enthusiast passionate about understanding how modern systems ar
 
 ---
 
-### Lets connect @ 
+### Lets connect @ 🚀
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/lucasmbg/)
 
