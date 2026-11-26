@@ -11,7 +11,7 @@
 
 ## About Me
 
-🎓 Bacharelando em **Ciência da Computação** na CESAR School.  
+🎓 Studying **Computer Science** at na **CESAR School**.  
 🌱 Aprendendo mais sobre **Python/Javascript** para trazer experiências e produtos que impactam o mundo.  
 
 ---
