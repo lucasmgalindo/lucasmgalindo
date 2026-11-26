@@ -13,8 +13,7 @@
 
 🎓 Studying **Computer Science** at **CESAR School**.  
 🌱 Learning more about **Python/Javascript** to bring good experiences and products that impact the world in a positive way.  
-
-I'm a technology enthusiast passionate about understanding how modern systems are built, secured, and scaled from end to end. Currently exploring and building projects across core IT domains:
+🧩 I'm a technology enthusiast passionate about understanding how modern systems are built, secured, and scaled from end to end. Currently exploring and building projects across core IT domains:
 
 ## Areas of Interest 
 - 💻 **Software Development:** Building web applications, APIs, and clean code solutions.
