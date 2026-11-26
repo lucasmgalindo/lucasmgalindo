@@ -76,6 +76,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=lucasmgalindo&theme=tokyonight&background=000000"/>
 </p>
 
+###
+
 <img data-importer="snake" src="https://raw.githubusercontent.com/lucasmgalindo/lucasmgalindo/snake-output/snake.svg" alt="Snake animation" />
 
 ###
