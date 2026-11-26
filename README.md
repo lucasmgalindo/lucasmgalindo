@@ -12,7 +12,7 @@
 ## About Me
 
 🎓 Studying **Computer Science** at na **CESAR School**.  
-🌱 Aprendendo mais sobre **Python/Javascript** para trazer experiências e produtos que impactam o mundo.  
+🌱 Learning more about **Python/Javascript** to bring good experiences and products that impact the world in a positive way.  
 
 ---
 
