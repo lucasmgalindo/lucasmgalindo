@@ -33,7 +33,7 @@
 
 [![Bitsy](https://img.shields.io/badge/Bitsy-6767B2?logo=Bitsy&logoColor=FFF)](#)
 
-### Programming Language ⌨️
+### Programming Languages ⌨️
 
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
@@ -49,7 +49,6 @@
 
 ### Tools 🛠️
 
-[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=visualstudiocode&logoColor=white)](#)
 [![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?logo=zoom&logoColor=white)](#)
 [![Miro](https://img.shields.io/badge/Miro-050038?logo=miro&logoColor=fff)](#)
 [![Linear](https://img.shields.io/badge/Linear-5E6AD2?logo=linear&logoColor=fff)](#)
@@ -58,6 +57,11 @@
 [![Notion](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff)](#)
 [![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?&logo=obsidian&logoColor=white)](#)
 [![Slack](https://custom-icon-badges.demolab.com/badge/Slack-4A154B?logo=slack&logoColor=fff)](#)
+[![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
+[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=visualstudiocode&logoColor=white)](#)
+[![Arduino](https://img.shields.io/badge/Arduino-008184.svg?logo=arduino)](#)
 
 ---
 
@@ -71,3 +75,7 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=lucasmgalindo&theme=tokyonight&background=000000"/>
 </p>
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/lucasmgalindo/lucasmgalindo/snake-output/snake.svg" alt="Snake animation" />
+
+###
