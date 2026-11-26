@@ -14,6 +14,15 @@
 🎓 Studying **Computer Science** at **CESAR School**.  
 🌱 Learning more about **Python/Javascript** to bring good experiences and products that impact the world in a positive way.  
 
+I'm a technology enthusiast passionate about understanding how modern systems are built, secured, and scaled from end to end. Currently exploring and building projects across core IT domains:
+
+## Areas of Interest 🚀
+- 💻 **Software Development:** Building web applications, APIs, and clean code solutions.
+- 📊 **Data & Artificial Intelligence:** Data analysis, machine learning, and intelligent automation.
+- 🔐 **Information Security:** Cybersecurity fundamentals, system hardening, and secure practices.
+- ☁️ **Infrastructure, Networks & Cloud Computing:** Cloud architecture, networking, and scalable environments.
+- ⚙️ **DevOps & Automation:** CI/CD pipelines, containerization, and infrastructure automation.
+
 ---
 
 <img align="right" alt="" height="900px" src="./src/study.gif">
