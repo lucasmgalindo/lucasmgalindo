@@ -9,7 +9,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=435&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=Computer+Science+Student"></img>
 </p>
 
-## Sobre mim
+## About Me
 
 🎓 Bacharelando em **Ciência da Computação** na CESAR School.  
 🌱 Aprendendo mais sobre **Python/Javascript**.  
@@ -25,29 +25,29 @@
 
 <h3 align="left">My Stack ~</h3>
 
-## Habilidades
+## Abilities
 
-### Desenvolvimento de Jogos 🎮
+### Game Development 🎮
 
 ![Bitsy](https://img.shields.io/badge/Bitsy-6767b2?style=for-the-badge&logoColor=white)
 
 
-### Linguagens de Programação ⌨️
+### Progamming Language ⌨️
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Desenvolvimento Web 🌐
+### Web Development 🌐
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 
-### Banco de Dados 💾
+### Database 💾
 
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### Ferramentas 🛠️
+### Tools 🛠️
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
@@ -56,7 +56,7 @@
 
 ---
 
-## Estatísticas GitHub
+## Github Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=lucasmgalindo&theme=tokyonight&background=000000"/>
