@@ -3,7 +3,7 @@
 </p>
 
 
-<h1 align="center">My name is Lucas </h1>
+<h1 align="center">I'm Lucas </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=435&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=Computer+Science+Student"></img>
@@ -65,7 +65,7 @@
 
 ---
 
-### Lets Connect 🚀
+### Let's Connect 🚀
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/lucasmbg/)
 
