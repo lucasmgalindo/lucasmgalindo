@@ -9,6 +9,17 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=435&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=Computer+Science+Student"></img>
 </p>
 
+<div align="center">
+<a href="#about-me"><kbd>ABOUT ME</kbd></a>&nbsp;
+<a href="#areas-of-interest"><kbd>AREAS OF INTEREST</kbd></a>&nbsp;
+<a href="#abilities"><kbd>ABILITIES</kbd></a>&nbsp;
+<a href="#lets-connect"><kbd>LETS CONNECT</kbd></a>&nbsp;
+
+
+
+
+</div> 
+
 ## About Me
 
 - 🎓 Currently studying **Computer Science** at **CESAR School**.  
@@ -65,12 +76,12 @@
 
 ---
 
-### Let's Connect 🚀
+### Let's Connect
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/lucasmbg/)
 
 
-## Github Stats
+## Github Stats 🚀
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=lucasmgalindo&theme=tokyonight&background=000000"/>
